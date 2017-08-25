@@ -42,8 +42,9 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
-
+  date_format = "2006/1/2"
+  
+  
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
   math = true
@@ -161,12 +162,17 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "/about/"
+  url = "/"
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
+  name = "About"
   url = "/about/"
+  weight = 2.5
+  
+[[menu.main]]
+  name = "Publications"
+  url = "/publications/"
   weight = 2
 
 [[menu.main]]

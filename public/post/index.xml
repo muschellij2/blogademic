@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on YOUR NAME</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on YOUR NAME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 YOUR NAME</copyright>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Making a website!</title>
+      <link>/2017/08/25/making-a-website/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/25/making-a-website/</guid>
+      <description>&lt;p&gt;This is awesome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
