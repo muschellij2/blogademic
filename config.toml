@@ -4,7 +4,7 @@ title = "YOUR NAME"
 copyright = "&copy; 2016 YOUR NAME"
 theme = "hugo-academic"
 enableEmoji = true
-# footnotereturnlinkcontents = "<sup>^</sup>"
+footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Enable comments by entering your Disqus shortname
@@ -162,7 +162,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "/"
+  url = "#about"
   weight = 1
 
 [[menu.main]]
